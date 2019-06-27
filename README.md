@@ -1,2 +1,6 @@
-# teamyaas.github.io
-Official Website for the organisation.
+# Official Website's Repository.
+
+
+### The website can be found at:
+
+<https://teamyaas.tech>
